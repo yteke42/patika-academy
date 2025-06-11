@@ -25,7 +25,7 @@ I'm regularly updating it as I complete remaining exercises and polish older wor
 
 Some of the topics you might find here include:
 
-- Algorithms & Data Structures (e.g., Insertion Sort, Selection Sort)
+- Algorithms & Data Structures 
 - Web development basics
 - Java, Python, and C# practice
 - Object-Oriented Programming
