@@ -1,0 +1,38 @@
+Merge Sort
+
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+
+Cevaplar:
+1)
+
+               [16, 21, 11, 8, 12, 22]
+
+        [16, 21, 11]                [8, 12, 22]
+ 
+    [16]      [21, 11]           [8]       [12, 22]
+ 
+[16]        [21]     [11]       [8]       [12]    [22]
+
+
+[16]        [11]     [21]       [8]       [12]    [22]
+
+    [16]      [11, 21]           [8]       [12, 22]
+
+        [11, 16, 21]                [8, 12, 22]
+
+               [8, 11, 12, 16, 21, 22]
+
+
+2)
+
+Merge Sort’un zaman karmaşıklığı:
+
+En iyi durum (Best Case): O(n log n)
+
+Ortalama durum (Average Case): O(n log n)
+
+En kötü durum (Worst Case): O(n log n)
