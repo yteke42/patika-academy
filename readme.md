@@ -8,7 +8,7 @@ This repo contains my personal solutions, completed projects, and notes from the
 ## 📂 Contents
 
 - ✅ Project solutions for Patika assignments
-- 📝 Answers to exercises
+- 📝 Answers to exercises  
 - 💻 Code implementations from different Patika tracks
 - 🚀 Progress updates as I complete pending tasks
 
