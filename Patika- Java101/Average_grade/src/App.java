@@ -26,7 +26,7 @@ public class App {
         double average = (math + physics + chem + tr + history +music)/6;
 
         System.out.println("Ortalaman: " + average + "\n");
-
+ 
         //Ternary Operator
         String var = (average >60) ? "Sınıfı geçti" : "Sınıfta Kaldı";
         System.out.println(var);
