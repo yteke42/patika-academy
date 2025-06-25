@@ -10,7 +10,7 @@ public class App {
                     letter[i][j] = " * ";
                 } else if(i==3){
                     letter[i][j] = " * ";
-                } else {
+                } else { 
                     letter[i][j] = "   ";
                 }
             }
