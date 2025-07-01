@@ -35,7 +35,8 @@ Some of the topics you might find here include:
 
 ## 🚧 Ongoing
 
-I’m in the process of finishing and uploading all my remaining projects. Stay tuned for more updates!
+I’m in the process of finishing "Java ile Backend Web Development Patikası"  
+Stay tuned for more updates!
 
 ---
 
