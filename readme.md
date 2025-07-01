@@ -27,7 +27,7 @@ Some of the topics you might find here include:
 
 - Algorithms & Data Structures 
 - Web development basics
-- Java, Python, and C# practice
+- Java, Python, and C++ practice
 - Object-Oriented Programming
 - Frontend & Backend mini-projects
 
